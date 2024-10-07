@@ -39,3 +39,4 @@ The project is an extension of the ThingsBoard platform, designed to facilitate 
 ```
 ## 6. Add to Custom Resources
 - Update the Gateways Dashboard (`gateways.json` - dashboard file) for the launch command at line `1922` to update the resource ID in the `"customResources"`.
+
